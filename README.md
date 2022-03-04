@@ -1,4 +1,3 @@
-html
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
 Estudante de Ciência da Computação pela Universidade Federal de Pelotas (UFPel) com experiência em JavaScript, HTML5, CSS3, React.js e React Native.
